@@ -1,0 +1,1 @@
+// create a function that does multiplication 10 times

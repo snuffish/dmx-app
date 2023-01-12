@@ -1,0 +1,157 @@
+[
+    {
+      "number": 1,
+      "name": "Red brightness",
+      "value": "Wash 1"
+    },
+    {
+      "number": 2,
+      "name": "Green brightness",
+      "value": "Wash 1"
+    },
+    {
+      "number": 3,
+      "name": "Blue brightness",
+      "value": "Wash 1"
+    },
+    {
+      "number": 4,
+      "name": "UV brightness",
+      "value": "Wash 1"
+    },
+    {
+      "number": 5,
+      "name": "Total brightness",
+      "value": "Wash 1"
+    },
+    {
+      "number": 6,
+      "name": "Strobe slow to fast（0.3HZ-20HZ）",
+      "value": "Wash 1"
+    },
+    {
+      "number": 7,
+      "name": "Strobe activated by sound",
+      "value": "Wash 1"
+    },
+    {
+      "number": 1,
+      "name": "Red brightness",
+      "Value": "Wash 2"
+    },
+    {
+      "number": 2,
+      "name": "Green brightness",
+      "Value": "Wash 2"
+    },
+    {
+      "number": 3,
+      "name": "Blue brightness",
+      "Value": "Wash 2"
+    },
+    {
+      "number": 4,
+      "name": "UV brightness",
+      "Value": "Wash 2"
+    },
+    {
+      "number": 5,
+      "name": "Total brightness",
+      "Value": "Wash 2"
+    },
+    {
+        "number": 10,
+        "name": "Strobe slow to fast（0.3HZ-20HZ） || Strobe activated by sound",
+        "Value": "Wash 2"
+    },
+    {
+      "number": 11,
+      "name": "Red brightness",
+      "value": "Wash 3"
+    },
+    {
+      "number": 12,
+      "name": "Green brightness",
+      "value": "Wash 3"
+    },
+    {
+      "number": 13,
+      "name": "Blue brightness",
+      "value": "Wash 3"
+    },
+    {
+      "number": 14,
+      "name": "UV brightness",
+      "value": "Wash 3"
+    },
+    {
+      "number": 15,
+      "name": "Total brightness",
+      "value": "Wash 3"
+    },
+    {
+      "number": 16,
+      "name": "Blackout @TODO",
+      "value": "LED1"
+    },
+    {
+        "number": 17,
+        "name": "Blackout",
+        "value": "@TODO"
+    },
+    {
+        "number": 18,
+        "name": "Blackout",
+        "value": "LED2"
+    },
+    {
+        "number": 19,
+        "name": "Blackout",
+        "value": "LED1 @TODO"
+    },
+    {
+        "number": 20,
+        "name": "Blackout",
+        "value": "LED3 @TODO"
+      },
+      {
+        "number": 21,
+        "name": "Blackout",
+        "value": "@TODO"
+      },
+      {
+        "number": 22,
+        "name": "Blackout",
+        "value": "@TODO"
+      },
+      {
+        "number": 23,
+        "name": "Blackout",
+        "value": "LED1"
+      },
+      {
+        "number": 24,
+        "name": "Blackout",
+        "value": "LED1"
+      },
+      {
+        "number": 25,
+        "name": "Blackout",
+        "value": "LED1"
+      },
+      {
+        "number": 26,
+        "name": "Blackout",
+        "value": "LED1"
+      },
+      {
+        "number": 27,
+        "name": "Blackout",
+        "value": "LED1"
+      },
+      {
+        "number": 28,
+        "name": "Blackout",
+        "value": "LED1"
+      }
+  ]

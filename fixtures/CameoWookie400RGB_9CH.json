@@ -1,0 +1,40 @@
+{
+    "channels": [
+        {
+            "number": 1,
+            "name": "Mode Select"
+        },
+        {
+            "number": 2,
+            "name": "Colours RGB"
+        },
+        {
+            "number": 3,
+            "name": "Pattern select"
+        },
+        {
+            "number": 4,
+            "name": "Zooming"
+        },
+        {
+            "number": 5,
+            "name": "X axis rolling"
+        },
+        {
+            "number": 6,
+            "name": "Y axis rolling"
+        },
+        {
+            "number": 7,
+            "name": "Z axis rolling"
+        },
+        {
+            "number": 8,
+            "name": "X axis moving"
+        },
+        {
+            "number": 9,
+            "name": "Y axis moving"
+        }
+    ]
+}
